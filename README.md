@@ -1,12 +1,23 @@
-## Olá eu sou a Christian Felipe Carvalho, bem vindo ao meu GitHub!
-📚Estudante de Analise e desenvolvimento de sistemas...  
-👨‍💻Programador JAVA, estudando Spring boot...
+ <h3>Olá eu sou a Christian Felipe Carvalho, bem vindo ao meu GitHub!</h3>
+<hr></hr>
+
+
+Aqui você vai encontrar alguns projetos, não só os que estão prontos, mas os  <br>
+que estou estudando e alguns em andamento do qual me divirto programando...
+
+##
+
+📚 Estudante de Analise e desenvolvimento de sistemas (SENAC)...  
+👨‍💻 Programador JAVA, estudando Spring boot...
 
 <div align="center">
   <a href="https://github.com/christianfelipecarvalho">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=christianfelipecarvalho&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianfelipecarvalho&layout=compact&langs_count=7&theme=merko"/>
 </div>
+
+  ##
+  
 
 <div style="display: inline_block"><br>
     
@@ -22,8 +33,9 @@
   
   ##
  
+  
 <div> 
- 
+  <h3>Contatos e redes sociais:</h3>
   <a href="https://www.instagram.com/christianfelipecarvalho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:christianfc001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/christian-felipe-carvalho-744b91150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
