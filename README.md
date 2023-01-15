@@ -1,5 +1,4 @@
- <h2>Olá, sou Christian Felipe Carvalho, bem vindo ao meu GitHub!</h2>
-<hr></hr>
+<h2>Olá, sou Christian Felipe Carvalho, bem vindo ao meu GitHub!</h2>
 
 
 Aqui você vai encontrar alguns projetos, não só os que estão prontos, mas os  <br>
@@ -10,10 +9,7 @@ que estou estudando e alguns em andamento do qual me divirto programando...
 📚 Estudante de Analise e desenvolvimento de sistemas (SENAC)...  
 👨‍💻 Programador JAVA, estudando Spring boot...
 
-
-
-
-  ## 
+## 
   
 Linguagens e ferramentas:
 <div style="display: inline_block"><br>
