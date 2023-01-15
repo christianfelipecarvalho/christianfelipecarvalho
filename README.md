@@ -11,7 +11,7 @@ que estou estudando e alguns em andamento do qual me divirto programando...
 
 ## 
   
-Linguagens e ferramentas:
+<h3>Linguagens e ferramentas:</h3>
 <div style="display: inline_block"><br>
     
  <img align="center" alt="chris-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
