@@ -1,4 +1,4 @@
- <h2>Olá eu sou Christian Felipe Carvalho, bem vindo ao meu GitHub!</h2>
+ <h2>Olá, sou Christian Felipe Carvalho, bem vindo ao meu GitHub!</h2>
 <hr></hr>
 
 
