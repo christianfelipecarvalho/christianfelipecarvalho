@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&left=true&left=true&width=1000&lines=Bem+Vindos(as)+ao+meu+GitHub!;Sou+Christian+Felipe+Carvalho;Tenho+25+anos;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=white&size=35&left=true&left=true&width=1000&lines=Bem+Vindos(as)+ao+meu+GitHub!;Sou+Christian+Felipe+Carvalho;Tenho+25+anos;)](https://git.io/typing-svg)
 
 Aqui você vai encontrar alguns projetos, não só os que estão prontos, mas os  <br>
 que estou estudando e alguns em andamento do qual me divirto programando...
